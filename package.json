@@ -18,6 +18,8 @@
   "homepage": "https://github.com/Srilakshmi-Dirisala/hardhatlatest#readme",
   "dependencies": {
     "@nomicfoundation/hardhat-toolbox": "^4.0.0",
-    "hardhat": "^2.19.1"
+    "fs": "^0.0.1-security",
+    "hardhat": "^2.19.1",
+    "init": "^0.1.2"
   }
 }
